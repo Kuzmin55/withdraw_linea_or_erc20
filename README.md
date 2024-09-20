@@ -190,11 +190,6 @@ Total gas fees: 0.00084 ETH (~1.52 USD)
 - **No Liability:** The author is not responsible for any losses or damages resulting from the use of this script.
 - **Use at Your Own Risk:** Ensure you understand the implications of sending funds and handling private keys.
 
----
-
-## License
-
-[MIT License](LICENSE)
 
 ---
 
